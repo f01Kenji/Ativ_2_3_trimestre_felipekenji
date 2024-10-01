@@ -1,0 +1,6 @@
+body{background-color: cornflowerblue;text-align: center;
+
+}
+h1, h2, h3{border-style: outset;
+    border-color: black;
+    border-width: 8px;border-radius: 30px;}
